@@ -22,7 +22,7 @@
 - 🤖 Current focus: **LLMs, RAG pipelines, ML automation, Agentic AI**, and production-grade AI systems
 - 🐍 Ask me about **Python, Machine Learning, Statistics, SQL**
 - 📫 Reach me: **televedan8@gmail.com**
-- 📄 [View my resume](https://drive.google.com/file/d/1EugJ-x4v5dPZFwbzIN2XY1TO-lCt0EJZ/view?usp=share_link)
+- 📄 [View my resume]([https://drive.google.com/file/d/1EugJ-x4v5dPZFwbzIN2XY1TO-lCt0EJZ/view?usp=share_link](https://drive.google.com/file/d/1gQlxzW40-NIhq_CuAeYpjMvO-PjiA6W7/view?usp=drive_link))
 
 ---
 
