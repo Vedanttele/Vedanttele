@@ -17,9 +17,9 @@
 
 ## 👋 About Me
 
-- 🏢 **Data Analyst** at **Allianz SE — Global People Analytics**, Munich — responsible for automation, analytics, and reporting
+- 🏢 **Data Scientist** at **Allianz SE — Global People Analytics**, Munich — responsible for automation, analytics, and reporting
 - 🎯 Actively transitioning toward **AI Engineer / ML Engineer roles in Germany**
-- 🤖 Current focus: **LLMs, RAG pipelines, ML automation**, and production-grade AI systems
+- 🤖 Current focus: **LLMs, RAG pipelines, ML automation, Agentic AI**, and production-grade AI systems
 - 🐍 Ask me about **Python, Machine Learning, Statistics, SQL**
 - 📫 Reach me: **televedan8@gmail.com**
 - 📄 [View my resume](https://drive.google.com/file/d/1EugJ-x4v5dPZFwbzIN2XY1TO-lCt0EJZ/view?usp=share_link)
